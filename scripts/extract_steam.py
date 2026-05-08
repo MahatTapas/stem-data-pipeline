@@ -20,6 +20,17 @@ def save_raw_data(data):
             "data": data
             }, f, indent=4)
         
+        #the industry standard is:
+        #def save_raw_data(data):
+        #    os.makedirs("data/raw", exist_ok=True)
+        #   payload = {
+        #        "metadata":{
+        #            "fetched_at": datetime.now(timezone(timedelta(hours=5, minutes=45))).isoformat(),
+        #            "timezone": "GMT+5:45"}, 
+        #        "data": data  
+        #    }
+        #    with open(RAW_PATH,'w', encoding='utf-8') as f:
+        #        json.dump(payload, f, indent=4)
 
 if __name__ == "__main__":
     data = fetch_steam_data()
