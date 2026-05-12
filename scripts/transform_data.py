@@ -3,7 +3,7 @@
 import json
 import pandas as pd
 
-RAW_PATH = "stemdata/raw/steam_raw.json"
+RAW_PATH = "data/raw/steam_raw.json"
 PROCESSED_PATH = "data/processed/steam_processed.csv"
 
 def load_raw_data():
@@ -11,8 +11,8 @@ def load_raw_data():
         raw_data = json.load(f)
         return raw_data 
     
-    def transform_data(data):
-        featured = data['data']['featured_win']
+def transform_data(data):
+        featured = data.get('data', {}).get('featured_win', {})
         games = []
         for item in featured.get("items", []):
             games.append({
@@ -23,17 +23,17 @@ def load_raw_data():
                 "platform": "steam",
                 "fetched_at": data["fetched_at"],
             })
-            return pd.DataFrame(games)
+        return pd.DataFrame(games)
         
 
 
-    def t_main():
-        raw = load_raw()
+def t_main():
+        raw = load_raw_data()
         df = transform_data(raw)
         print(df.head())
         df.to_csv(PROCESSED_PATH, index=False)
 
         
-    if __name__ == "__main__":
-        t_main()
-        print("Data has been transformed and saved successfully.")
+if __name__ == "__main__":
+    t_main()
+    print("Data has been transformed and saved successfully.")
