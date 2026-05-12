@@ -3,7 +3,7 @@
 import json
 import pandas as pd
 
-RAW_PATH = "data/raw/steam_raw.json"
+RAW_PATH = "stemdata/raw/steam_raw.json"
 PROCESSED_PATH = "data/processed/steam_processed.csv"
 
 def load_raw_data():

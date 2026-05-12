@@ -1,4 +1,6 @@
 #in this script we extract the api from twitter
+from json.tool import main
+
 import requests
 import json
 import os
@@ -32,7 +34,11 @@ def save_raw_data(data):
         #    with open(RAW_PATH,'w', encoding='utf-8') as f:
         #        json.dump(payload, f, indent=4)
 
+    def main():
+        data = fetch_steam_data()
+        save_raw_data(data)
+
+
 if __name__ == "__main__":
-    data = fetch_steam_data()
-    save_raw_data(data)
+    main()
     print("Data has been fetched and saved successfully.")
