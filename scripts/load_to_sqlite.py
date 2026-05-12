@@ -2,7 +2,7 @@ import sqlite3
 import pandas as pd
 
 DB_PATH = "db/steam.db"
-CSV_PATH = "data/processed/games.csv"
+CSV_PATH = "data/processed/steam_processed.csv"
 
 def load_data():
     conn = sqlite3.connect(DB_PATH)
