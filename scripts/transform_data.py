@@ -25,9 +25,15 @@ def load_raw_data():
             })
             return pd.DataFrame(games)
         
-    if __name__ == "__main__":
+
+
+    def t_main():
         raw = load_raw()
         df = transform_data(raw)
         print(df.head())
         df.to_csv(PROCESSED_PATH, index=False)
+
+        
+    if __name__ == "__main__":
+        t_main()
         print("Data has been transformed and saved successfully.")
