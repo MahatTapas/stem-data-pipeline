@@ -1,0 +1,57 @@
+game_id,name,price,discount,platform,source_category,fetched_at
+1174180.0,Red Dead Redemption 2,1499.0,75.0,steam,specials,2026-05-12T14:26:21.163472+05:45
+264710.0,Subnautica,749.0,75.0,steam,specials,2026-05-12T14:26:21.163472+05:45
+848450.0,Subnautica: Below Zero,749.0,75.0,steam,specials,2026-05-12T14:26:21.163472+05:45
+1809540.0,Nine Sols,1159.0,60.0,steam,specials,2026-05-12T14:26:21.163472+05:45
+3105440.0,Heroes of Might and Magic: Olden Era,2999.0,25.0,steam,specials,2026-05-12T14:26:21.163472+05:45
+3124540.0,Far Far West,1799.0,10.0,steam,specials,2026-05-12T14:26:21.163472+05:45
+4197610.0,Librarian: Tidy Up the Arcane Library!,522.0,15.0,steam,specials,2026-05-12T14:26:21.163472+05:45
+601150.0,Devil May Cry 5,449.0,85.0,steam,specials,2026-05-12T14:26:21.163472+05:45
+1659420.0,UNCHARTED™: Legacy of Thieves Collection,1649.0,67.0,steam,specials,2026-05-12T14:26:21.163472+05:45
+3404260.0,Dead as Disco,1903.0,20.0,steam,specials,2026-05-12T14:26:21.163472+05:45
+1962700.0,Subnautica 2,2999.0,0.0,steam,top_sellers,2026-05-12T14:26:21.163472+05:45
+10076.0,Subnautica Deep Ocean Bundle,4047.0,50.0,steam,top_sellers,2026-05-12T14:26:21.163472+05:45
+2483190.0,Forza Horizon 6,6999.0,0.0,steam,top_sellers,2026-05-12T14:26:21.163472+05:45
+2681030.0,Outbound,2249.0,10.0,steam,top_sellers,2026-05-12T14:26:21.163472+05:45
+266410.0,iRacing,975.0,0.0,steam,top_sellers,2026-05-12T14:26:21.163472+05:45
+3520180.0,Tasty Bite: Food dating simulator,647.0,10.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+2525510.0,NITRO GEN OMEGA,2699.0,10.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+3972540.0,Spatial Lens,0.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4249620.0,Giant Beast Island,689.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4402730.0,Port Trader,343.0,20.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+3048930.0,Duriano,1549.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4189480.0,Poolscape,467.0,10.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4650900.0,Grid of Change,0.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+2660510.0,OCTOPinbs,799.0,20.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+3952880.0,Chill & Reel,569.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+3458090.0,Broadcast Empire,359.0,10.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4375920.0,Puzzle Park 2,815.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4251310.0,Dilemma,615.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+3982350.0,Slot Heroes: Reels of Fate,315.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4633010.0,HackSaw,519.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4005430.0,Searching Light,871.0,15.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4634140.0,Centurion's Gambit,1025.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4465210.0,Boat on Desk,119.0,40.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+2768420.0,The Last Winter Knight,1304.0,10.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4453130.0,Esqapes: Voyages,1950.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4414430.0,Spell Alchemist,467.0,10.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4499530.0,Don Quijote,129.0,40.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4599370.0,Word Space Blaster,188.0,10.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4530530.0,Welcome to Bloomroots,1025.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+2127570.0,Greenhearth Necromancer,839.0,20.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+2958890.0,Boardwalk Builders,733.0,10.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4104160.0,Drifting Dots,639.0,20.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4577580.0,With It We Leave,0.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4132760.0,都市青年模拟器,459.0,40.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+4645040.0,Flesh Forest,0.0,0.0,steam,new_releases,2026-05-12T14:26:21.163472+05:45
+2020130.0,Top Down Zombies,0.0,0.0,steam,coming_soon,2026-05-12T14:26:21.163472+05:45
+4373820.0,Season 3 Battlefield Pro - Battlefield™ 6 and REDSEC Pre-Order,2499.0,0.0,steam,coming_soon,2026-05-12T14:26:21.163472+05:45
+2510060.0,FLAW,0.0,0.0,steam,coming_soon,2026-05-12T14:26:21.163472+05:45
+4630500.0,The Long Drive Badland SCAR20,0.0,0.0,steam,coming_soon,2026-05-12T14:26:21.163472+05:45
+4630590.0,Megabonk Apocalypse City,0.0,0.0,steam,coming_soon,2026-05-12T14:26:21.163472+05:45
+4630640.0,Megabonk Apocalypse Kingdom,0.0,0.0,steam,coming_soon,2026-05-12T14:26:21.163472+05:45
+4216650.0,Tennis Manager 26,0.0,0.0,steam,coming_soon,2026-05-12T14:26:21.163472+05:45
+2599690.0,Better Than Dead,0.0,0.0,steam,coming_soon,2026-05-12T14:26:21.163472+05:45
+4678680.0,Yellow Clicker,0.0,0.0,steam,coming_soon,2026-05-12T14:26:21.163472+05:45
+,Midweek Deal,,,steam,0,2026-05-12T14:26:21.163472+05:45
+428660.0,Deliver Us The Moon,449.0,82.0,steam,5,2026-05-12T14:26:21.163472+05:45

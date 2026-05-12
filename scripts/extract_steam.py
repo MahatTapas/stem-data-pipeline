@@ -1,6 +1,4 @@
 #in this script we extract the api from twitter
-from json.tool import main
-
 import requests
 import json
 import os
