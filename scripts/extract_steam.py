@@ -34,7 +34,7 @@ def save_raw_data(data):
         #    with open(RAW_PATH,'w', encoding='utf-8') as f:
         #        json.dump(payload, f, indent=4)
 
-    def main():
+def main():
         data = fetch_steam_data()
         save_raw_data(data)
 
